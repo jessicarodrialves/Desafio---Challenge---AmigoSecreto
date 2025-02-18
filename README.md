@@ -20,7 +20,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial]([https://github.com/jessicarodrialves/Desafio---Challenge---AmigoSecreto]).
+Você pode [acessar o código fonte do projeto inicial] (https://github.com/jessicarodrialves/Desafio---Challenge---AmigoSecreto).
 
 ## 📚 Desenvolvido por: 
 
